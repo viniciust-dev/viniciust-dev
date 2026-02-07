@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vinícius Tobias
 
-<!--
-**viniciust-dev/viniciust-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Interessado em desenvolvimento de software  
+🚀 Atualmente aprendendo Python e lógica de programação  
+📚 Buscando minha primeira oportunidade de estágio em TI  
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias que estou estudando
+- Python
+- Lógica de Programação
+- Redes (Cisco Packet Tracer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+Email: viniciustobias54@gmail.com
+
