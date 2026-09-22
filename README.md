@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação  
 💻 Interessado em desenvolvimento de software  
-🚀 Atualmente aprendendo Python e lógica de programação  
+🚀 Estudando Python, Java e fundamentos de programação  
 📚 Buscando minha primeira oportunidade de estágio em TI  
 
 ## 🛠 Tecnologias que estou estudando
